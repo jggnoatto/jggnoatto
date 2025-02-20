@@ -25,3 +25,8 @@ I believe in continuous learning and am always seeking new challenges to help me
 ## 💬 Let's connect!
 
 I'm always open to new connections, collaborations, and opportunities. Feel free to reach out to me if you're working on interesting projects or if you want to chat about software development, technology, or anything else!
+
+### 📱 Social Media
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jggnoatto)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/joaognoattoo_)
