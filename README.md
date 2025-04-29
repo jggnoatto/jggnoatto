@@ -9,6 +9,8 @@ I specialize in web development and work with the following technologies:
 - **HTML**
 - **CSS**
 - **JavaScript**
+- **React**
+- **Version control with Git**
 
 I'm always excited to explore new tools, frameworks, and libraries to improve my development workflow and stay updated with the latest trends in the industry.
 
@@ -16,9 +18,12 @@ I'm always excited to explore new tools, frameworks, and libraries to improve my
 
 I'm always eager to learn more and grow as a developer. I am currently focusing on improving my skills in:
 
-- **React**
 - **Node.js**
-- **Version control with Git**
+- **Angular**
+- **C**
+- **C#**
+- **SQL**
+
 
 I believe in continuous learning and am always seeking new challenges to help me advance in my career.
 
