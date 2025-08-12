@@ -19,9 +19,8 @@ I'm always excited to explore new tools, frameworks, and libraries to improve my
 I'm always eager to learn more and grow as a developer. I am currently focusing on improving my skills in:
 
 - **Node.js**
-- **Angular**
+- **PHP**
 - **C**
-- **C#**
 - **SQL**
 
 
