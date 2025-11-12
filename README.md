@@ -1,4 +1,4 @@
-# Olá! Eu sou [Seu Nome] 👋
+# Olá! Eu sou João Gnoatto 👋
 
 ### 🚀 Estudante de Engenharia de Software | Em Transição para Análise de Dados
 
@@ -13,14 +13,14 @@ Minha jornada é impulsionada pela busca constante por evolução e por projetos
 Minhas competências abrangem o desenvolvimento web e a análise de dados, permitindo-me atuar em projetos com diferentes focos.
 
 ### Desenvolvimento Web & Software
-| Categoria | Habilidades |
+|  |  |
 | :--- | :--- |
 | **Front-end** | 💻 HTML, CSS, JavaScript (ES6+), **React.JS** |
 | **Back-end/Base** | 🐍 Python, ☕ Java |
 | **Outros** | Git, Estrutura de Dados |
 
 ### Análise de Dados & BI 
-| Categoria | Habilidades |
+|  |  |
 | :--- | :--- |
 | **Visualização/BI** | 📊 **Power BI** |
 | **Dados** | 🗄️ **SQL** (Consultas e Modelagem) |
@@ -39,9 +39,5 @@ Se você busca um profissional dedicado, com mentalidade de crescimento e apaixo
 
 ---
 
-```markdown
-### Minhas Estatísticas
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[jggnoatto]&show_icons=true&theme=radical)](https://github.com/[SEU_USUARIO])
-
 ### Linguagens Mais Usadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[jggnoatto]&layout=compact&theme=radical)](https://github.com/[SEU_USUARIO])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jggnoatto&layout=compact&theme=radical)](https://github.com/[SEU_USUARIO])
