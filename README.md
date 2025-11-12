@@ -1,36 +1,47 @@
-# Hi there! I'm João Gnoatto 👋
+# Olá! Eu sou [Seu Nome] 👋
 
-I'm a Software Engineering student at **Faculdade Assis Gurgacz**, with a focus on **Web Development**. I’m passionate about learning and improving my skills, and I’m constantly looking for new opportunities to make a difference in the tech world. 🚀
+### 🚀 Estudante de Engenharia de Software | Em Transição para Análise de Dados
 
-## 🖥️ Tech Stack
+Sou um profissional proativo e entusiasta de tecnologia, atualmente cursando **Engenharia de Software** na FAG (Cascavel - PR). Com 18 anos, estou focado em unir minha base técnica de desenvolvimento com o poder do **Data Science** e **Business Intelligence**.
 
-I specialize in web development and work with the following technologies:
+Minha jornada é impulsionada pela busca constante por evolução e por projetos que gerem valor, transformando dados brutos em *insights* acionáveis.
 
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **React**
-- **Version control with Git**
+---
 
-I'm always excited to explore new tools, frameworks, and libraries to improve my development workflow and stay updated with the latest trends in the industry.
+## 🛠️ Stack de Habilidades
 
-## 🌱 I'm currently learning
+Minhas competências abrangem o desenvolvimento web e a análise de dados, permitindo-me atuar em projetos com diferentes focos.
 
-I'm always eager to learn more and grow as a developer. I am currently focusing on improving my skills in:
+### Desenvolvimento Web & Software
+| Categoria | Habilidades |
+| :--- | :--- |
+| **Front-end** | 💻 HTML, CSS, JavaScript (ES6+), **React.JS** |
+| **Back-end/Base** | 🐍 Python, ☕ Java |
+| **Outros** | Git, Estrutura de Dados |
 
-- **Node.js**
-- **PHP**
-- **C**
-- **SQL**
+### Análise de Dados & BI 
+| Categoria | Habilidades |
+| :--- | :--- |
+| **Visualização/BI** | 📊 **Power BI** |
+| **Dados** | 🗄️ **SQL** (Consultas e Modelagem) |
+| **Processamento** | 🐍 Python (Pandas, NumPy) |
 
+---
 
-I believe in continuous learning and am always seeking new challenges to help me advance in my career.
+## 🔍 O que estou buscando
 
-## 💬 Let's connect!
+Estou aberto a **Oportunidades de Estágio** que me permitam aplicar e expandir meus conhecimentos, especialmente nas áreas de:
 
-I'm always open to new connections, collaborations, and opportunities. Feel free to reach out to me if you're working on interesting projects or if you want to chat about software development, technology, or anything else!
+* **Análise de Dados:** Extração, limpeza e visualização de dados.
+* **Desenvolvimento Full-Stack:** Projetos com React e Python/Java.
 
-### 📱 Social Media
+Se você busca um profissional dedicado, com mentalidade de crescimento e apaixonado por transformar desafios em soluções, vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jggnoatto)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/joaognoattoo_)
+---
+
+```markdown
+### Minhas Estatísticas
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[jggnoatto]&show_icons=true&theme=radical)](https://github.com/[SEU_USUARIO])
+
+### Linguagens Mais Usadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[jggnoatto]&layout=compact&theme=radical)](https://github.com/[SEU_USUARIO])
