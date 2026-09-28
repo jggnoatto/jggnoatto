@@ -17,7 +17,7 @@ Minhas competências abrangem o desenvolvimento web e a análise de dados, permi
 | :--- | :--- |
 | **Front-end** | 💻 HTML, CSS, JavaScript (ES6+), **React.JS** |
 | **Back-end/Base** | 🐍 Python, ☕ Java |
-| **Outros** | Git, Estrutura de Dados |
+| **Outros** | Git, Flutter |
 
 ### Análise de Dados & BI 
 |  |  |
